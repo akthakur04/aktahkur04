@@ -19,11 +19,11 @@ Hi, I'm Akshay Thakur,A Full Stack Software Developer 🚀 currently living in T
 <a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> -->
-  <a href="gauravpetkar28@gmail.com">
+  <a href="mailto:akshay11042000@gmail.com">
  <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
   </a>
 
-<a href="linkedin.com/in/gaurav-petkar-2b77a6147">
+<a href="https://www.linkedin.com/in/akthakur04/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
